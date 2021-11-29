@@ -81,8 +81,8 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://coderena.com/contests/2021-11-streaming-protocol-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
-- Starts November 23, 2021 00:00 UTC
-- Ends November 29, 2021 23:59 UTC
+- Starts November 30, 2021 00:00 UTC
+- Ends December 6, 2021 23:59 UTC
 
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
