@@ -88,7 +88,7 @@ This repo will be made public before the start of the contest. (C4 delete this l
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
 
-This repo consists of 4 main contracts:
+This repo consists of 3 main contracts:
 | Contract Name    | Description      | SLOC |
 | ---------------- | ---------------- | ---- |
 | `StreamFactory`  | A factory for creating `Streams`      | \~600 |
